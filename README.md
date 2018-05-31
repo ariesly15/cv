@@ -2,7 +2,6 @@
 
 - 手机/微信：17777785210
 - Email：i@iwlog.com
-- PDF版： [李燚-web前端-简历](https://github.com/iwlog/cv/files/2056478/LIYI-FrontEnd-Resume.pdf)
 
 ## 个人信息
 
